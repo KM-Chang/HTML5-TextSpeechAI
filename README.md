@@ -4,13 +4,12 @@
 
 * 藉由browser所提供的 Speech API進行產生語音朗讀、產生文字等web實務應用。
 * Text to Speech Page `須下載必要語言包(browserの各国言語パッケージであるのが必要です)`
-
-  ** 角色為各瀏覽器提供之語音AI模組 **
   ![](Demoimg/TtoS.jpg)
+  ** 角色為各瀏覽器提供之語音AI模組 **
 * Speech to Text 
-![](Demoimg/StoT.png)
+![](Demoimg/StoT.jpg)
 `須開啟麥克風權限(マイクの許可をあけなければなりません)`
-![mic許可](Demoimg/mic.png)
+![mic許可](Demoimg/mic.jpg)
 
 ## Demo
 
